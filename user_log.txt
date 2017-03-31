@@ -1,0 +1,32 @@
+the bot sucks
+
+messages the bot
+
+hello
+
+could not
+
+i could probably add a command like !twitch and it would show all the people in the channel who are currently streaming or something
+
+that might be kinda tricky, there are already bots that play music from youtube though
+
+ric suggested i make it play youtube playlists
+
+i was reading a bit about them
+
+dunno
+
+oh it counts how many messages the person has written
+
+type !test
+
+try it, i wanna see what it does when you type it
+
+i copied it off some example, gonna figure out what it does and stuff
+
+so far it only does !test
+
+
+
+https://github.com/jshen94/thebotp3
+
